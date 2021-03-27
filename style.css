@@ -1,0 +1,27 @@
+body {
+    background: url(https://nexus.leagueoflegends.com/wp-content/uploads/2019/01/LCS19_Spring_Social_TeamWallpapers_TL_3840x2160_5ybw2wxdf66nq1bwptri.jpg);
+    background-size: cover;
+    padding: 200px 450px;
+    color: rgb(46, 67, 253);
+    font-size: 100px;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #jam {
+    font-size: 5pc;
+  }
+  #tanggal {
+    font-size: 2pc;
+  }
+  #jam,
+  #tanggal {
+    text-shadow: 0 7px 7px #000000bb;
+    justify-content: center;
+  }
+  #hari {
+      font-size: 5px;
+  }
